@@ -340,7 +340,7 @@ p{
 	top: 0;
 	left: 50%;
 	transform: translate(-50%,-110%);
-	background: url('../img/logo.png');
+	background: url('logo.png');
 	background-size: cover;
 	background-position: center;
 			
